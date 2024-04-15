@@ -21,7 +21,7 @@ Usage:
 2. Logging: Use the log() method to log messages with the desired log level.
     <!-- logger.log("This is an info message", level='INFO')
     logger.log("This is a debug message", level='DEBUG')
-    logger.log("This is an error message", level='ERROR') -->
+    logger.log("This is an error message", level='ERROR') ->
 3. Log Rotation: Log files are automatically rotated after reaching a specified size limit.
 
 Example: 
